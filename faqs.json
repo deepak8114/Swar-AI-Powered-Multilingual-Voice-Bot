@@ -1,0 +1,114 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "questions": [
+        "What is my policy status?",
+        "Mera policy status kya hai?",
+        "Policy check karo"
+      ],
+      "answer_english": "Your policy is currently active and will expire on December 31, 2026.",
+      "answer_hindi": "Aapki policy abhi active hai aur 31 December 2026 ko expire hogi.",
+      "category": "policy_status"
+    },
+    {
+      "id": 2,
+      "questions": [
+        "How do I file a claim?",
+        "Claim kaise file karu?",
+        "Claim process kya hai?"
+      ],
+      "answer_english": "To file a claim, please call our helpline at 1800-XXX-XXXX or visit our website.",
+      "answer_hindi": "Claim file karne ke liye, humari helpline par call karein ya website visit karein.",
+      "category": "claim"
+    },
+    {
+      "id": 3,
+      "questions": [
+        "What is my premium amount?",
+        "Mera premium kitna hai?",
+        "Premium batao"
+      ],
+      "answer_english": "Your current premium is 5000 rupees per month.",
+      "answer_hindi": "Aapka current premium 5000 rupees per month hai.",
+      "category": "premium"
+    },
+    {
+      "id": 4,
+      "questions": [
+        "When is my payment due?",
+        "Payment due date kya hai?",
+        "Kab payment karni hai"
+      ],
+      "answer_english": "Your next payment is due on February 15, 2026.",
+      "answer_hindi": "Aapka next payment 15 February 2026 ko due hai.",
+      "category": "payment"
+    },
+    {
+      "id": 5,
+      "questions": [
+        "How do I update my details?",
+        "Details kaise update karu?",
+        "Information change karna hai"
+      ],
+      "answer_english": "You can update your details by logging into your account.",
+      "answer_hindi": "Aap apni details account mein login karke update kar sakte hain.",
+      "category": "update"
+    },
+    {
+      "id": 6,
+      "questions": [
+        "What is covered in my policy?",
+        "Policy mein kya cover hai?",
+        "Coverage kya hai"
+      ],
+      "answer_english": "Your policy covers hospitalization and surgery up to 10 lakh rupees.",
+      "answer_hindi": "Aapki policy mein hospitalization aur surgery 10 lakh tak cover hai.",
+      "category": "coverage"
+    },
+    {
+      "id": 7,
+      "questions": [
+        "Can I cancel my policy?",
+        "Policy cancel kar sakta hu?",
+        "Cancel kaise kare"
+      ],
+      "answer_english": "Yes, you can cancel your policy. Please contact our support team.",
+      "answer_hindi": "Haan, aap policy cancel kar sakte hain. Support team se contact karein.",
+      "category": "cancel"
+    },
+    {
+      "id": 8,
+      "questions": [
+        "Where is my policy document?",
+        "Policy document kahan hai?",
+        "Document chahiye"
+      ],
+      "answer_english": "Your policy document is available in your registered email.",
+      "answer_hindi": "Aapka policy document email mein hai.",
+      "category": "document"
+    },
+    {
+      "id": 9,
+      "questions": [
+        "OTP nahi aaya",
+        "Resend OTP",
+        "OTP not received"
+      ],
+      "answer_english": "I'll resend the OTP to your registered mobile number.",
+      "answer_hindi": "Main OTP phir se bhej raha hoon.",
+      "category": "otp"
+    },
+    {
+      "id": 10,
+      "questions": [
+        "Talk to agent",
+        "Human se baat karni hai",
+        "Agent chahiye"
+      ],
+      "answer_english": "I'll connect you to our customer service representative.",
+      "answer_hindi": "Main aapko customer service se connect kar raha hoon.",
+      "category": "agent"
+    }
+  ]
+}
