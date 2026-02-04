@@ -59,7 +59,7 @@ AI-powered voice bot supporting Hindi, English, and code-mixed conversations wit
 
 ## 🎯 Assignment Requirements
 
-Built for Promptora AI Solutions interview assignment:
+Built for Promptora AI Solutions:
 - ✅ Real-time voice interaction
 - ✅ User validation (OTP-based)
 - ✅ Multilingual Q&A (10 FAQs)
@@ -96,7 +96,7 @@ MIT License - Feel free to use for learning and interviews
 
 Deepak Patro - deepakpatro73@gmail.com
 
-Built as part of Promptora AI Solutions technical assessment
+Built as part of Promptora AI Solutions 
 
 ---
 
@@ -114,7 +114,7 @@ Built as part of Promptora AI Solutions technical assessment
 
 ### **LinkedIn Post:**
 ```
-Built VaaniBot - an AI-powered multilingual voice assistant supporting Hindi, English, and code-mixed conversations! 
+Built SwarBot - an AI-powered multilingual voice assistant supporting Hindi, English, and code-mixed conversations! 
 
 Features:
 ✅ Real-time speech recognition (Deepgram)
@@ -131,7 +131,7 @@ Check it out on GitHub: [link]
 
 ### **Portfolio Description:**
 ```
-VaaniBot: Multilingual Voice Assistant
+SwarBot: Multilingual Voice Assistant
 
 Developed an intelligent voice bot supporting Hindi, English, and code-mixed conversations. Implemented real-time ASR/TTS pipeline with Deepgram and ElevenLabs, achieving sub-1000ms latency. Features include OTP authentication, semantic FAQ matching, natural filler words, and comprehensive performance tracking.
 
